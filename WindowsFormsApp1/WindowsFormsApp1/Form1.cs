@@ -16,6 +16,14 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+        Một mùa thu trước, mỗi hoàng hôn,
+        Nhặt cánh hoa rơi chẳng thấy buồn,
+        Nhuộm ánh nắng tà qua mái tóc,
+        Tôi chờ người đến với yêu đương.
 
+        Người ấy thường hay ngắm lạnh lùng
+        Dải đường xa vút bóng chiều phong,
+        Và phương trời thẳm mờ sương, cát,
+        Tay vít dây hoa trắng cạnh lòng
     }
 }
